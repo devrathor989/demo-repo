@@ -6,6 +6,3 @@ Some info abt git !
 
 Watch tutorials
 
-## Local Development
-
-1. open index.html in browser
